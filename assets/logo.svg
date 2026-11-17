@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="100%" height="100%" fill="none">
+  <!-- Rounded Base Background with subtle gradient -->
+  <rect width="40" height="40" rx="10" fill="url(#zlearn-grad)" />
+  
+  <!-- Modern Geometric Z with upward trajectory & book spine fold -->
+  <!-- Top bar of Z transitioning to learning path -->
+  <path d="M11 12H29C29.5523 12 30 12.4477 30 13C30 13.2985 29.8677 13.5794 29.64 13.77L15.3 25.7H29C29.5523 25.7 30 26.1477 30 26.7C30 27.2523 29.5523 27.7 29 27.7H11C10.4477 27.7 10 27.2523 10 26.7C10 26.4015 10.1323 26.1206 10.36 25.93L24.7 14H11C10.4477 14 10 13.5523 10 13C10 12.4477 10.4477 12 11 12Z" fill="#FFFFFF" />
+  
+  <!-- Upward North-East Arrow Accent indicating Progress -->
+  <path d="M25 11L30 11L30 16" stroke="#10B981" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M21 20L29.5 11.5" stroke="#10B981" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Subtle Open Book Accent at Base -->
+  <path d="M12 29.5C15 28.5 18 28.5 20 29.5C22 28.5 25 28.5 28 29.5" stroke="rgba(255,255,255,0.4)" stroke-width="1.6" stroke-linecap="round" />
+
+  <defs>
+    <linearGradient id="zlearn-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F6841" />
+      <stop offset="1" stop-color="#064E3B" />
+    </linearGradient>
+  </defs>
+</svg>
